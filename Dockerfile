@@ -1,4 +1,4 @@
-FROM python:3.10-slim
+FROM runpod/serverless:latest
 
 WORKDIR /app
 
